@@ -24,7 +24,7 @@ To use the scripts in this repository, follow the steps below:
 
 2. Clone the repository to your local machine using the following command:
    ```bash
-   $ git clone https://github.com/your-username/your-repo.git
+   $ git clone https://github.com/wangyuhsin/tfidf-text-summarization.git
    ```
    
 3. Navigate to the cloned repository's directory:
