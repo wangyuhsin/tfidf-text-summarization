@@ -87,9 +87,7 @@ Suppose we have a corpus named `reuters-vol1-disk1-subset.zip` containing multip
    eastland 0.096
    ```
 
-   The script will compute the TF-IDF scores for the specified file within the
-
- corpus and print the top 20 important words or phrases based on their scores.
+   The script will compute the TF-IDF scores for the specified file within the corpus and print the top 20 important words or phrases based on their scores.
 
 ## Notes
 - The scripts assume that the XML files are formatted according to a specific structure, as described in the `tfidf.py` file's comments. Please ensure that your XML files follow a similar structure for the scripts to work correctly.
