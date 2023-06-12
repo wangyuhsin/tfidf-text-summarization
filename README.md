@@ -1,4 +1,6 @@
 # TF-IDF Text Summarization
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 This repository contains Python scripts for performing TF-IDF (Term Frequency-Inverse Document Frequency) based text summarization. TF-IDF is a widely used technique in natural language processing and information retrieval to identify the most important words or phrases in a document collection.
 
 ## Scripts
